@@ -1,2 +1,1 @@
-file:
-	name: yml-pro
+file.name = yml-pro
