@@ -1,1 +1,2 @@
-file.name = yml-test
+file:
+	name: yml-test
